@@ -1,0 +1,18 @@
+G:\Visual Studio\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+G:\Visual Studio\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+G:\Visual Studio\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.Form1.resources
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.Properties.Resources.resources
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.csproj.GenerateResource.Cache
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+G:\Visual Studio\Bomberman\Bomberman\obj\Debug\Bomberman.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe.config
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.exe
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.pdb
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.exe
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\bin\Debug\Bomberman.pdb
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Form1.resources
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.Properties.Resources.resources
+C:\Users\HP\Desktop\Projects\Bomberman\Bomberman\obj\Debug\Bomberman.csproj.GenerateResource.Cache
